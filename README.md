@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about **Machine Learning and AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/akshar1612/](https://github.com/akshar1612/)
+- 👨‍💻 All of my projects are available [here](https://github.com/akshar1612/)
 
 - 💬 Ask me about **soccer**
 
